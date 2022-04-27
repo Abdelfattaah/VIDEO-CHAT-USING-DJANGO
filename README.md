@@ -2,6 +2,14 @@
 
 It's a Group video calling application using the Agora Web SDK with a Django backend.
 
+This project include the following features: 
+-Group and peer to peer video calling
+-full controls such as muting your mic
+-turning your camera off
+-displaying usernames (uing sqllite)
+
+
+
 ### How to run this project:
 
 1 - Clone the repo
@@ -20,4 +28,7 @@ Create an account at agora.io and create an app. Once you create your app, you w
 `<python manage.py runserver>`
 
 
+#### Refrences:
+Thanks to `Dennis Ivy`
+`https://www.youtube.com/watch?v=Oxnz8Us1QAQ`
 
